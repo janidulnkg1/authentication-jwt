@@ -82,3 +82,6 @@ C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bi
 C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Janidu Lankage\Documents\GitHub\authentication-jwt\auth-jwt\auth-jwt\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

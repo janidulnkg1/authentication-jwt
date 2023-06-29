@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Om1YEl1NHsjQcR+tBqOvdf5b8XLXtR1BFftJUtt/sa9OW/FZOX5G3LwQD3VTdMWzQlvMGOnH5W3MvHYjFs27WA==",
+  "dgSpecHash": "KW7LnjTRsc8TWcZw+v5oTiIuMrek1GIX4flk9OwOaEt2hxfe82rlg059cx0y3i46eIfmqYY5SfAuKQ9Yd72wPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\authentication-jwt\\auth-jwt\\auth-jwt\\auth-jwt.csproj",
   "expectedPackageFiles": [
@@ -53,7 +53,10 @@
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\scrutor\\3.3.0\\scrutor.3.3.0.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore.filters\\7.0.6\\swashbuckle.aspnetcore.filters.7.0.6.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore.filters.abstractions\\7.0.6\\swashbuckle.aspnetcore.filters.abstractions.7.0.6.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Janidu Lankage\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
